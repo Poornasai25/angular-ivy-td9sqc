@@ -5,3 +5,9 @@
   margin-left: 10px;
   margin-top: 11px;
 }
+.btn-primary.focus, .btn-primary:focus {
+    color: #fff;
+    background-color: #0d3c6e;
+    border-color: #082647;
+    box-shadow: 0 0 0 0.2rem rgb(38 143 255 / 50%);
+}
